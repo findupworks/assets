@@ -4,6 +4,7 @@
 ### Primárias
 
 * #3cdbc0
+* hsl(170, 69%, 55%)
 
 ![#3cdbc0](https://i.imgur.com/L2LQTe9.png)
 
@@ -21,6 +22,7 @@
 
 
 * #0086d6
+* hsl(202, 100%, 42%)
 
 ![#3cdbc0](https://i.imgur.com/IFPknn9.png)
 
